@@ -15,7 +15,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## 🏆 My CS50 Certificate
+## 🏆 My CS50P Certificate
 
 [![CS50 Certificate](https://certificates.cs50.io/000a2fbe-dd7c-4e87-bc2d-4ed49914afb7.png?size=letter)](https://certificates.cs50.io/000a2fbe-dd7c-4e87-bc2d-4ed49914afb7.pdf?size=letter)
 
